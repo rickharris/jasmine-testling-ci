@@ -23,7 +23,7 @@
       "iphone": [ 6 ],
       "ipad": [ 6 ]
     },
-    "files": "jasmine-harness.coffee"
+    "files": "jasmine-harness.js"
   },
   "author": "Hao-kang Den <haokang.den@gmail.com>",
   "license": "MIT",
